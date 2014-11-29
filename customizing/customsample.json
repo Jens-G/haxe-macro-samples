@@ -1,0 +1,9 @@
+{
+	"layout" : {
+	 	"style" : "HaxeRulez.css",
+	 	"title"	: "Haxe Rulez!"
+	},
+	"features" : {
+		"describer"	: true
+	}
+}

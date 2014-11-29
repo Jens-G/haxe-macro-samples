@@ -1,0 +1,25 @@
+body {
+	background: #e0e0e0;
+}
+
+div {
+	margin: 4px;
+	padding: 4px;
+}
+
+div.main, div.dataroot {
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	margin: 0px 0px 0px 2px;
+}
+
+p.error {
+	color: #cc0000;
+}
+
+h1 {
+	margin: 0px;
+}
